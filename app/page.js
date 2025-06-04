@@ -11,24 +11,34 @@ const siteConfig = {
       text: ""
     },
     {
-      title: "Bare Markets",
-      text: ""
+      title: "Origin",
+      text: `DNA started as a joke in a Telegram chat.
+    Someone asked, "What if degeneracy was genetic?"
+    Two hours later, a smart contract was copy-pasted, liquidity was added, and Degens Need ASS was born.
+    
+    It wasn’t launched — it escaped.
+    Now it spreads like a virus: wallet to wallet, meme to meme, fueled by zero sleep and 100x dreams.
+    
+    DNA isn’t a project.
+    It’s a mutation.
+    And if you're holding it… you’ve already been infected.`
+    },
+
+    {
+      title: "Gene Pool",
+      text: "Liquidity pool named for its questionable contributors"
     },
     {
-      title: "",
-      text: ""
+      title: "Discipline",
+      text: "Our DNA isn’t random — it’s genetically disciplined degeneracy."
     },
     {
-      title: "",
-      text: ""
+      title: "Utility",
+      text: "Our token does everything and nothing, just like real DNA — most of it is junk."
     },
     {
-      title: "",
-      text: ""
-    },
-    {
-      title: "",
-      text: "D"
+      title: "Community Oriented",
+      text: "Our holders form a living gene pool of poor decisions and stronger convictions."
     }
   ],
   communityTitle: "Join the 🍝 Cult",
