@@ -2,8 +2,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "2 Fine Asses",
-  description: "Degenerate crypto with double security and double cheeks.",
+  title: "Degens Need Ass",
+  description: "it's in our DNA.",
 };
 
 export default function RootLayout({ children }) {
