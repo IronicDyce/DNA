@@ -3,13 +3,9 @@ import React from "react";
 const siteConfig = {
   siteName: "Degens Need Ass",
   ctaText: "Buy $DNA",
-  headline: "Degens Need ASs 🍑",
+  headline: "Degens Need Ass 🍑",
   description: "it's in our DNA",
   features: [
-    {
-      title: "DNA",
-      text: ""
-    },
     {
       title: "Origin",
       text: `DNA started as a joke in a Telegram chat.
