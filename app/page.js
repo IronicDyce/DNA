@@ -1,44 +1,44 @@
 import React from "react";
 
 const siteConfig = {
-  siteName: "2 Fine Asses",
-  ctaText: "Buy $2FA",
-  headline: "2 Fine Asses 🍑",
-  description: "Buy and upgrade to $2FA because 1FA is too flat.\nHackers fear curves they can't bypass.",
+  siteName: "Degens Need Ass",
+  ctaText: "Buy $DNA",
+  headline: "Degens Need ASs 🍑",
+  description: "it's in our DNA",
   features: [
     {
-      title: "2FA",
-      text: "Because everything deserves a double cheek check"
+      title: "DNA",
+      text: ""
     },
     {
       title: "Bare Markets",
-      text: "No bear markets here — just bare ones."
+      text: ""
     },
     {
-      title: "Twerkonomics 101",
-      text: "Demand rises when the supply shakes."
+      title: "",
+      text: ""
     },
     {
-      title: "Booty-Backed Economics",
-      text: "It's simple. 1) No ass? No gas. 2) No cheeks? No charts."
+      title: "",
+      text: ""
     },
     {
-      title: "Proof of Clap",
-      text: "We verify transactions with clap-powered consensus."
+      title: "",
+      text: ""
     },
     {
-      title: "Ass-et Allocation",
-      text: "Diversify your portfolio. One one-third stables, one two-thirds in cheeks."
+      title: "",
+      text: "D"
     }
   ],
   communityTitle: "Join the 🍝 Cult",
-  communityDescription: "Hang with the finest assets in Web3.",
-  twitterLink: "https://x.com/i/communities/1921821175807934848",
+  communityDescription: "$DNA Community",
+  twitterLink: "https://x.com/i/communities/1921887080747303298",
   telegramLink: "#",
   communityCardTitle: "$2FA X Community",
   communityCardText: "Get unfiltered updates, share memes, and interact with a community of degenerates.",
   communityCardButton: "Get In Here 👊",
-  footerText: "© 2025 2 Fine Assets. Built different. Not financial advice — just fine."
+  footerText: "© 2025 Degens Need Ass. Built different. Not financial advice — just ass."
 };
 
 export default function Home() {
@@ -48,7 +48,7 @@ export default function Home() {
         <div className="text-2xl font-bold text-pink-400">{siteConfig.siteName}</div>
         <nav className="flex space-x-6">
 
-          <a href="https://pump.fun/coin/C7Mn5Zh3wRPpdYQ2YxT9HijofoZaUkBJ83Ghm3v262FA" target="_blank" rel="noopener noreferrer" className="bg-pink-500 text-white px-4 py-2 rounded-full font-semibold hover:bg-pink-600 transition">{siteConfig.ctaText}</a>
+          <a href="https://pump.fun/coin/89ZuYkFEvk6Ae5fZtX4rHUvqjH2mLns1e9We6FM1hoq1" target="_blank" rel="noopener noreferrer" className="bg-pink-500 text-white px-4 py-2 rounded-full font-semibold hover:bg-pink-600 transition">{siteConfig.ctaText}</a>
         </nav>
       </header>
 
@@ -71,7 +71,7 @@ export default function Home() {
           {siteConfig.description}
         </p>
         <a
-          href="https://pump.fun/coin/C7Mn5Zh3wRPpdYQ2YxT9HijofoZaUkBJ83Ghm3v262FA"
+          href="https://pump.fun/coin/89ZuYkFEvk6Ae5fZtX4rHUvqjH2mLns1e9We6FM1hoq1"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-8 inline-block bg-pink-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-pink-600 transition"
@@ -97,7 +97,7 @@ export default function Home() {
         </div>
 
         <div className="mt-10 max-w-md mx-auto bg-[#1a1a3d] p-6 rounded-xl shadow-lg text-center">
-          <h3 className="text-lg font-semibold mb-2 text-pink-400">Visit the $2FA X Community</h3>
+          <h3 className="text-lg font-semibold mb-2 text-pink-400">Visit the $DNA X Community</h3>
           <p className="text-sm text-blue-100 mb-4">{siteConfig.communityCardText}</p>
           <a
             href={siteConfig.twitterLink}
